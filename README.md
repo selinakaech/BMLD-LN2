@@ -1,5 +1,5 @@
 # BMLD-LN2
-Semesterprojekt Python Thema: Übergewicht
+Semesterprojekt Python Thema: Übergewicht zwischen 1975 und 2016
 
 Gruppe: Soraya Gfrerer, Adriana Heeb, Selina Käch
 
